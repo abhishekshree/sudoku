@@ -4,11 +4,11 @@ Created an application to solve sudoku using backtracking.
 
 To run it locally:
 <ul>
-    <li>Install the requirements by the command <br>
+    <li>Install the requirements by the command 
         <code>pip install -r requirements.txt</code>
 </li>
 <li>
-    Run the main function in app.py by the command<br>
+    Run the main function in app.py by the command 
     <code>python app.py</code>
 </li>
 </ul>
