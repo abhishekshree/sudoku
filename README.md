@@ -1,6 +1,7 @@
 # Sudoku Solver
 
 Created an application to solve sudoku using backtracking.
+This app is currently [hosted here](https://solve-sudoku-fast.herokuapp.com/)
 
 To run it locally:
 <ul>
